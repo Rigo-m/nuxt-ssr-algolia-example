@@ -3,7 +3,7 @@
     <NuxtLink :href="'/instant_search/Samsung'" style="display: block">Go To instant search samsung</NuxtLink>
     <NuxtLink :href="'/instant_search/Metra'" style="display: block">Go To instant search metra</NuxtLink>
 
-    <NuxtLink :href="'/airbnb/stoca'" style="display: block">Go To Us giorgio</NuxtLink>
+    <NuxtLink :href="'/airbnb/test'" style="display: block">Go To aribnb</NuxtLink>
     <InstantSearchProvider :indexName="$route.params.indexName" />
   </div>
 </template>
